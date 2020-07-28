@@ -31,6 +31,7 @@ T金所	https://weixin.tjinsuo.com/#login/mine
 宜贷网	https://www.yidai.com/user/login/
 开源中国	https://www.oschina.net/home/login
 试客联盟	shikee.com
+美食优惠    https://static.waitwaitpay.com/web/sd_se/index.html#/search/searchfor=vendor&keyword=%E7%B1%B3%E7%B2%89
 （金融相关和电信的网站一般都是同一套加密js，不同网站使用方法不同）
 
 
