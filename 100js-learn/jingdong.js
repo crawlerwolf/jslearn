@@ -1,12 +1,4 @@
-genPvid = function() {
-    var a = (new Date).getTime();
-    var b = "xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx".replace(/[xy]/g, function(b) {
-        var c = (a + 16 * Math.random()) % 16 | 0;
-        return a = Math.floor(a / 16),
-            ("x" == b ? c : 3 & c | 8).toString(16)
-    });
-    return b
-}
-
-var t = "https://search.jd.com/Search?keyword=%E7%AC%94%E8%AE%B0%E6%9C%AC&enc=utf-8&wq=%E7%AC%94%E8%AE%B0%E6%9C%AC&pvid="+genPvid()
-console.log(t)
+const JSEncrypt = require("node-jsencrypt");
+var encrypt = new JSEncrypt();
+encrypt.setPublicKey("MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDC7kw8r6tq43pwApYvkJ5laljaN9BZb21TAIfT/vexbobzH7Q8SUdP5uDPXEBKzOjx2L28y7Xs1d9v3tdPfKI2LR7PAzWBmDMn8riHrDDNpUpJnlAGUqJG9ooPn8j7YNpcxCa1iybOlc2kEhmJn5uwoanQq+CA6agNkqly2H4j6wIDAQAB")
+console.log(encrypt.encrypt("123456789"))
