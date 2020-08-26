@@ -44,7 +44,7 @@ pp互娱	http://game.g.pptv.com/user/login/
 189邮箱	https://webmail30.189.cn/w2/
 上海剑桥学院	http://mids.gench.edu.cn/_customize/passLogin
 青海移动	https://www.iqhmall.cn/shopwap/logon/logon
-人人网	http://www.renren.com/  
+人人网	http://www.renren.com/  明文传输
 房天下	https://passport.fang.com/
 凤凰金融	https://my.fengjr.com/login
 好豆通行证	http://login.haodou.com/
@@ -52,7 +52,7 @@ pp互娱	http://game.g.pptv.com/user/login/
 天天看看	http://www.kankan.com/
 信融财富	https://www.xinrong.com/2.0/login2.0.html
 聚宝匯	https://sso.jbh.com/login
-图虫网	https://tuchong.com/  
+图虫网	https://tuchong.com/  明文传输
 点融网	https://www.dianrong.com/account/login
 团贷网	https://www.tuandai.com/user/login.aspx
 小牛在线	https://www.xiaoniu88.com/user/login
@@ -60,10 +60,10 @@ pp互娱	http://game.g.pptv.com/user/login/
 翼龙贷	https://passport.eloancn.com/login
 芒果TV	http://i.mgtv.com/
 逗游网	http://www.doyo.cn/passport/login
-手机贝贝	http://m.beibei.com/login/login.html 
+手机贝贝	http://m.beibei.com/login/login.html 明文传输
 Base64图片	http://b2x-h5statichtml.s3-website.cn-northwest-1.amazonaws.com.cn/yqmh5/index.html?userId=2175117&invitationCode=SH20190636509187
-_platform=copy_link&task_id=101&channel=h5&platform=android&client_v=1.333&invite_code=MD2R2A&_timestamp=1557244800&_sign=c99aeefb041f9ef74e31a358f7d1703d  
-小葱	https://xcong.com/auth/login  
+_platform=copy_link&task_id=101&channel=h5&platform=android&client_v=1.333&invite_code=MD2R2A&_timestamp=1557244800&_sign=c99aeefb041f9ef74e31a358f7d1703d  明文传输
+小葱	https://xcong.com/auth/login  明文传输
 微云保贝	http://www.99weiyun.com/web/pc/login
 百草味	https://m.vipbcw.com/register/index
 朝夕网	http://www.zhaoxi.net/login.php
@@ -90,7 +90,7 @@ G妹游戏	https://www.gm99.com/
 中华英才网	http://www.chinahr.com/home/nb/
 金逸电影	http://www.jycinema.com/wap/#/login
 58同城	http://nb.58.com/
-github  https://github.com/  
+github  https://github.com/  明文传输
 天猫   https://www.tmall.com/
 淘宝   https://www.taobao.com/
 京东   https://www.jd.com/
