@@ -94,6 +94,7 @@ github  https://github.com/  明文传输
 天猫   https://www.tmall.com/
 淘宝   https://www.taobao.com/
 京东   https://www.jd.com/
+小黑盒 https://www.xiaoheihe.cn/login
 
 *******************网站打不开********************
 大乾柜	https://www.dqgui.com/ind/login.html  打不开
