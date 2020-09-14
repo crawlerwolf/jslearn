@@ -96,3 +96,4 @@ github  https://github.com/  明文传输
 淘宝   https://www.taobao.com/
 京东   https://www.jd.com/
 小黑盒 https://www.xiaoheihe.cn/login
+爱奇艺 https://passport.iqiyi.com/apis/reglogin/login.action
