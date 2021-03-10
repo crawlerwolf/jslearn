@@ -71,7 +71,9 @@ def get_encropy():
     req_data = get_page_data(requestCode)["data"]
     sign = req_data["sign"]
     session1 = req_data["session"]
-    uid = requests.post("http://127.0.0.1:8091/uid", data={"session": session1.replace("=", ""), "sign": sign})
+    print(sign)
+    print(session1)
+    uid = requests.post("http://127.0.0.1:8091/uid", data={"session": session1, "sign": sign})
     print(uid.text)
     c = base64.b64encode(uid.text.encode("utf8")).decode("utf8")
     print(c)
