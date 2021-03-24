@@ -162,5 +162,5 @@ class WeiBoLogin(object):
 
 
 if __name__ == '__main__':
-    wb = WeiBoLogin("15801184155", "wang384499520+..")
+    wb = WeiBoLogin(username,pwd)
     wb.login()
