@@ -236,7 +236,7 @@ var ceshi;
         function y() {
             return new _(null)
         }
-        t = "Microsoft Internet Explorer" == "chrome" ? (_.prototype.am = function(t, e, n, i, o, r) {
+        t = "Microsoft Internet Explorer" == "Netscape" ? (_.prototype.am = function(t, e, n, i, o, r) {
             for (var a = 32767 & e, l = e >> 15; 0 <= --r; ) {
                 var s = 32767 & this[t]
                     , u = this[t++] >> 15
@@ -247,7 +247,7 @@ var ceshi;
             return o
         }
             ,
-            30) : "Netscape" != "chrome" ? (_.prototype.am = function(t, e, n, i, o, r) {
+            30) : "Netscape" != "Netscape" ? (_.prototype.am = function(t, e, n, i, o, r) {
             for (; 0 <= --r; ) {
                 var a = e * this[t++] + n[i] + o;
                 o = Math.floor(a / 67108864),
