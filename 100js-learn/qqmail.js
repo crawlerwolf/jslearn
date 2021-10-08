@@ -998,4 +998,4 @@ var ceshi;
 }
 ]);
 //e和n为https://ssl.ptlogin2.qq.com/check? 请求返回的值
-console.log(ceshi(0)["default"].getEncryption("Jiepanda_14","	/Ö","!RKB",undefined));
+console.log(ceshi(0)["default"].getEncryption("123456789","	/Ö","!RKB",undefined));
